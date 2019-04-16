@@ -61,4 +61,4 @@ class LinkParser(HTMLParser):
             self.pages_to_check.appendleft(url)
 
 
-LinkParser(sys.argv[1]) 
+LinkParser(sys.argv[1])
